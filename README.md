@@ -1,5 +1,11 @@
 # RabbitMQ NestJs microservice implementation
 
+<div style="display: flex; align-items: center; justify-content: center; margin: 12px">
+<img src="https://docs.nestjs.com/assets/logo-small.svg" style="width: 100px">
+<p style="font-size: 48px; margin: 0px 12px">+</p>
+<img src="https://seeklogo.com/images/R/rabbitmq-logo-25641A76DE-seeklogo.com.png" style="width: 100px">
+</div>
+
 Olá, o intuito do repositório é mostrar como implementar o RabbitMQ em uma aplicação NestJs, utilizando microserviços.
 A aplicação consiste em um app que consome as mensagens da fila, e um client que produz mensagens.
 
